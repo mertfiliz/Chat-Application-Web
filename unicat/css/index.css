@@ -1,0 +1,120 @@
+.register-border {
+	border-style: dashed;
+	border:3px solid #6e2596;
+	background: #8D59B9;
+	border-radius: 15px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:10px;
+	margin-top:100px;
+}
+
+
+.register-form {   
+		
+}
+
+.register-header {
+	font-size:30px;
+	margin-top:20px;
+	margin-bottom:20px;
+	text-align: center;
+	font-weight: 600 !important;
+	font-family: Montserrat;
+	color:#dca9f2;
+}
+
+.register-input {
+	background: white;
+	border:2px solid #6e2596;
+	font-size:18px;
+	border-radius: 10px;
+	text-align: center;
+	font-weight: 600 !important;
+	font-family: Montserrat;
+	color:#3B6ACD;
+	width: 100%;
+	padding-top:8px;
+	padding-bottom:8px;
+}
+
+.register-button {
+	color: #8D59B9 !important;
+	background: #dca9f2 !important;
+	border:2px solid #6e2596 !important;
+	border-radius: 10px;
+	font-size:18px;
+	text-align: center;
+	font-weight: 600 !important;
+	font-family: Montserrat;
+		
+}
+
+.register-space {
+	padding-top:8px;
+	padding-bottom:8px;
+}
+
+.messageAlerts{
+	font-size:14px;
+	text-align: center;
+	font-weight: 600 !important;
+	font-family: Montserrat;
+	color:white;
+ 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	
+}
+
+.footer-text {
+	font-weight: 400 !important;
+	font-family: Montserrat;
+	font-size: 13px;
+	color:white;
+}
+
+.login-panel-form {
+	border-style: dashed;
+	border:3px solid #6e2596;
+	background: #8D59B9;
+	border-radius: 15px;
+	right: 0;
+	padding: 20px;
+}
+
+.login-input {
+	background: white;
+	border:2px solid #6e2596;
+	font-size:14px;
+	border-radius: 10px;
+	text-align: center;
+	font-weight: 600 !important;
+	font-family: Montserrat;
+	color:#3B6ACD;
+	width: 100%;
+	padding-left:25px;
+	padding-right:25px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	margin-top:15px;
+}
+
+.login-button {
+	color: #8D59B9 !important;
+	background: #dca9f2 !important;
+	border:2px solid #6e2596 !important;
+	border-radius: 10px;
+	font-size:18px;
+	text-align: center;
+	font-weight: 600 !important;
+	font-family: Montserrat;
+	margin-top:25px;
+	margin-bottom:10px;
+	}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #8DA8DA;
+    opacity: 0.6; /* Firefox */
+		
+}
+
+
