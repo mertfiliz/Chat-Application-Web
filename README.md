@@ -1,7 +1,5 @@
 # Chat-Application-Web
 
-(localhost)
-
 This is a chat application named 'Unicat' created by using;
 - HTML
 - PHP
@@ -11,9 +9,6 @@ This is a chat application named 'Unicat' created by using;
 - AJAX
 - Bootstrap
 - MySQL
-
-My intention was creating a fully functional chat application to provide communication among friends.
-This application has not been completed at the moment but most of the functional parts are working as intended.
 
 Here is a list of what the application offers to users:
 - Creating an account and log in to your account.
@@ -26,16 +21,6 @@ Here is a list of what the application offers to users:
 - Sending instant messages to your friends.
 - Receiving instant messages from your friend. 
 - Showing the message delivery time.
-
-Will be added in the future:
-- Latest message will be at the top position of 'Messages'
-- Message notifications.
-- File transfer / Upload a file
-- Webcam Chat
-- Themes
-- Emojies
-- Sounds
-- Changing profile picture.
 
 Pictures taken inside of the application:
 
